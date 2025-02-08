@@ -39,8 +39,6 @@ To get started with Fry&Herb, follow these steps:
 
 ## V1 Live Demo - https://fry-herb.netlify.app/
 
-## V2 Live Demo - {Link to be added}
-
 ## Conclusion
 
 Fry&Herb is committed to making cooking accessible and fun for everyone. With our new features and improvements, we hope to enhance your culinary experience and help you discover new and exciting recipes. Thank you for choosing Fry&Herb, and happy cooking!
