@@ -35,8 +35,7 @@ The primary goal of Fry&Herb is to provide users with an extensive collection of
 - Axios - A promise-based HTTP client for making API requests.
 - SASS/SCSS - A CSS preprocessor that adds power and elegance to the basic language.
 
-To get started with Fry&Herb, follow these steps:
-
+---
 ## V1 Live Demo - https://fry-herb.netlify.app/
 
 ## Conclusion
