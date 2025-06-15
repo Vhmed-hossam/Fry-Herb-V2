@@ -2,7 +2,7 @@ import { Button } from "@heroui/react";
 import React from "react";
 import { Link } from "react-router-dom";
 
-export default function notfound() {
+export default function NotFound() {
   return (
     <section class="maincontent">
       <div className="h-screen grid place-items-center text-center">
