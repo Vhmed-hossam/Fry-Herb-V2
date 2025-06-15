@@ -37,6 +37,7 @@ The primary goal of Fry&Herb is to provide users with an extensive collection of
 
 ---
 ## V1 Live Demo - https://fry-herb.netlify.app/
+## V2 Live Demo - https://fry-herb-v2.netlify.app/
 
 ## Conclusion
 
