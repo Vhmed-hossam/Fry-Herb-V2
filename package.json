@@ -1,5 +1,5 @@
 {
-  "name": "Fry-Herb V2",
+  "name": "fry_herb-v2",
   "private": true,
   "version": "2.0.0",
   "type": "module",
@@ -22,13 +22,9 @@
     "axios": "^1.7.9",
     "formik": "^2.4.6",
     "framer-motion": "^12.0.6",
-    "gh-pages": "^6.3.0",
-    "git": "^0.1.5",
-    "git-download": "^0.0.2",
+    "js-cookies": "^1.0.4",
     "motion": "^12.0.6",
     "react": "^18.3.1",
-    "react-cookie": "^7.2.2",
-    "react-cookies": "^0.1.1",
     "react-dom": "^18.3.1",
     "react-google-fonts": "^1.2.1",
     "react-router-dom": "^7.1.3",
@@ -36,7 +32,6 @@
     "react-toastify": "^11.0.3",
     "slick-carousel": "^1.8.1",
     "swiper": "^11.2.1",
-    "universal-cookie": "^7.2.2",
     "yup": "^1.6.1"
   },
   "devDependencies": {
