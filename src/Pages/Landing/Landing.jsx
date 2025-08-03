@@ -3,12 +3,9 @@ import { Button } from "@heroui/react";
 export default function Landing() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center text-center maincontent">
-      <header className="  py-20 w-full text-primary">
-        <div className="w-fit mx-auto"></div>
+      <header className="text-center pb-5 w-full text-primary">
         <h1 className="text-4xl font-bold">Hello </h1>
-        <h1 className="text-4xl font-bold flex ">
-          Welcome to Fry/Herb <p className="text-lg font-bold ">Version 2</p>
-        </h1>
+        <h1 className="text-4xl font-bold">Welcome to Fry/Herb</h1>
         <p className="mt-2 text-lg">
           Fry&Herb is a comprehensive website dedicated to providing a wide
           array of food recipes. Our mission is to make cooking easy, enjoyable,

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Image from "../../Images/Fry&Herb web logo.png";
+import Image from "/Fry&Herb web logo.png";
 import { NavLink } from "react-router-dom";
 import { Button, Switch } from "@heroui/react";
 import { MoonIcon, SunIcon } from "../../icons/icons";

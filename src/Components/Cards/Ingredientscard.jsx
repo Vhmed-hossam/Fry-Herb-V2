@@ -1,6 +1,6 @@
 import React from "react";
 import { Accordion, AccordionItem } from "@heroui/react";
-import Image from "../../Images/WEB BIG MAIN.png";
+import Image from "/WEB BIG MAIN.png";
 
 export default function Ingredientscard({ meal }) {
   const defaultContent = (
